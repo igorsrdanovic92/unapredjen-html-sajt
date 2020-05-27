@@ -1,0 +1,3 @@
+kako postaviti da nav bude uvek iste visine koliki je main
+kako resiti problem kod ul kad stavis liststyle:none sa uvucenim redom sa desne strane
+napraviti listu u obliku tabele
